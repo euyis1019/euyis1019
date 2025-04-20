@@ -1,11 +1,11 @@
 ## Hi there 👋
-My name is Eric/郭毅芙, passionate about advancing AI with focus on **Multimodal Model**, **Continual Learning** and **AI Agents**.
+##### My name is Eric/郭毅芙, passionate about advancing AI with focus on **Multimodal Model**, **Continual Learning** and **AI Agents**.
 I'm an undergraduate student eager to learn and connect! Open to questions, discussions, and exploring potential collaborations on these or other interesting AI-related topics.
 📫 [Email](mailto:1572189162@qq.com) | [WeChat](https://github.com/euyis1019/euyis1019/blob/main/wechat_QR.jpg)
 
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=euyis1019&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=euyis1019&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 <!--
 **euyis1019/euyis1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

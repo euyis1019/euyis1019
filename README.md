@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is Eric/郭毅芙, passionate about advancing AI with focus on **Multimodal Model**, **Continual Learning** and **AI Agents**.
+I'm an undergraduate student eager to learn and connect! Open to questions, discussions, and exploring potential collaborations on these topics.
+📫 [Email](mailto:1572189162@qq.com) | [WeChat](https://github.com/euyis1019/euyis1019/blob/main/wechat_QR.jpg)
 <!--
 **euyis1019/euyis1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
